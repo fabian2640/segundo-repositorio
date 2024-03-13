@@ -1,2 +1,2 @@
 # segundo-repositorio
-Modificando el segundo repositorio jaja
+Modificando el segundo repositorio
